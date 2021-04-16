@@ -1,0 +1,35 @@
+
+    h1{
+        color: rgb(3, 25, 49);
+
+    }
+    *{
+        border:solid;
+    }
+    .header{
+        background-color: darkcyan;
+        display: flex;
+        justify-content: space-between;
+
+
+    }
+
+    .grid{
+         background-color: deepskyblue;
+         flex-wrap:wrap;
+         justify-content: space-evenly;
+         text-align: center;
+    }
+
+    .footer{
+        background-color: dodgerblue;
+        display:flex;
+        justify-content: flex-end;
+    }
+
+    .saachee{
+        background-color: rgb(139, 212, 236);
+        flex-wrap:wrap;
+        justify-content: space-evenly;
+   }
+  
